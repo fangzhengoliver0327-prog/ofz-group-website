@@ -25,5 +25,17 @@
     "description": "A purpose-built early learning environment in Silverwater, Sydney.",
     "cover": "projects/silverwater-childcare/exterior.webp",
     "url": "projects/silverwater-childcare/"
+  },
+  {
+    "title": "Photo Test",
+    "slug": "photo-test",
+    "category": "residential",
+    "summary": "Photo Upload Test · Sydney",
+    "description": "Testing the OFZ project gallery.",
+    "cover": "/ofz-group-website/media/projects/wechatimg227.jpeg",
+    "gallery": [
+      "/ofz-group-website/media/projects/wechatimg228.jpeg",
+      "/ofz-group-website/media/projects/wechatimg229.jpeg"
+    ]
   }
 ]
