@@ -25,13 +25,13 @@ content:
         required: true
         options:
           values:
-            - value: residential
+            - name: residential
               label: Residential & Duplex
-            - value: renovations
+            - name: renovations
               label: Renovations & Extensions
-            - value: commercial
+            - name: commercial
               label: Commercial Fit-outs & Waterproofing
-            - value: education
+            - name: education
               label: Education & Childcare
       - name: summary
         label: Short label / location
