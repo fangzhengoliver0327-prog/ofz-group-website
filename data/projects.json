@@ -25,12 +25,5 @@
     "description": "A purpose-built early learning environment in Silverwater, Sydney.",
     "cover": "projects/silverwater-childcare/exterior.webp",
     "url": "projects/silverwater-childcare/"
-  },
-  {
-    "title": "Test Project",
-    "slug": "test-project",
-    "category": "residential",
-    "summary": "Test · Sydney NSW",
-    "description": "This is a test project for OFZ Group CMS."
   }
 ]
