@@ -1,0 +1,51 @@
+media:
+  input: media/projects
+  output: /ofz-group-website/media/projects
+  rename: safe
+content:
+  - name: projects
+    label: Project Experience
+    type: file
+    path: data/projects.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Project name
+        type: string
+        required: true
+      - name: slug
+        label: URL slug (lowercase, hyphens)
+        type: string
+        required: true
+        pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      - name: category
+        label: Category
+        type: select
+        required: true
+        options:
+          values:
+            - value: residential
+              label: Residential & Duplex
+            - value: renovations
+              label: Renovations & Extensions
+            - value: commercial
+              label: Commercial Fit-outs & Waterproofing
+            - value: education
+              label: Education & Childcare
+      - name: summary
+        label: Short label / location
+        type: string
+      - name: description
+        label: Project description
+        type: text
+      - name: cover
+        label: Cover image
+        type: image
+      - name: gallery
+        label: Gallery images
+        type: image
+        list: true
+      - name: url
+        label: Existing project page (leave empty for new projects)
+        type: string
