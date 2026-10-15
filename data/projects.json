@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Camperdown Residence",
+    "slug": "camperdown-residence",
+    "category": "residential",
+    "summary": "New Build · Camperdown, Sydney NSW",
+    "description": "A contemporary residential new build in Camperdown, Sydney.",
+    "cover": "camperdown-residence/camperdown-03.webp",
+    "gallery": [],
+    "url": "camperdown-residence/"
+  },
+  {
+    "title": "Seven Hills Duplex",
+    "slug": "seven-hills-duplex",
+    "category": "residential",
+    "summary": "Duplex · Seven Hills, Sydney NSW",
+    "description": "A contemporary duplex development in Seven Hills, Sydney.",
+    "cover": "seven-hills-6-photos/seven-hills-01.webp",
+    "gallery": [],
+    "url": "projects/seven-hills-duplex/"
+  },
+  {
+    "title": "Silverwater Childcare Centre",
+    "slug": "silverwater-childcare",
+    "category": "education",
+    "summary": "New Build · Silverwater, Sydney NSW",
+    "description": "A purpose-built early learning environment in Silverwater, Sydney.",
+    "cover": "projects/silverwater-childcare/exterior.webp",
+    "gallery": [],
+    "url": "projects/silverwater-childcare/"
+  }
+]
