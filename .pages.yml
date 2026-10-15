@@ -1,6 +1,6 @@
 media:
   input: media/projects
-  output: /ofz-group-website/media/projects
+  output: /media/projects
   rename: safe
 content:
   - name: projects
